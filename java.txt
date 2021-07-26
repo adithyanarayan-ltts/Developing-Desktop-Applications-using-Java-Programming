@@ -1,0 +1,3 @@
+heap maintains object memory.
+
+string pool memory: reference is maintained (string as literals)
