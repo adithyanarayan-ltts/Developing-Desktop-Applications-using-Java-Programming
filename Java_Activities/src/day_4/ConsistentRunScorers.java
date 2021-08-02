@@ -1,4 +1,4 @@
-package activity_5;
+package day_4;
 
 import java.io.*;
 import java.util.*;

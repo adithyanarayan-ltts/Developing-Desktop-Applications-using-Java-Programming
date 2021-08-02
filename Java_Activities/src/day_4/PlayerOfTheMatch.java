@@ -1,4 +1,4 @@
-package activity_5;
+package day_4;
 
 import java.io.*;
 import java.util.*;
@@ -7,7 +7,7 @@ public class PlayerOfTheMatch {
 		try {
 			InputStreamReader r = new InputStreamReader(System.in);
 			BufferedReader br = new BufferedReader(r);
-			System.out.println("Enter number of players:");
+			System.out.println("Enter number of matches:");
 			int n = Integer.parseInt(br.readLine());
 			System.out.println("Enter players:");
 			TreeSet<String> set = new TreeSet<String>();

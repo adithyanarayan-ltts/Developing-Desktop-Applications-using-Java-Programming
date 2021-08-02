@@ -1,4 +1,4 @@
-package activity_2;
+package day_2;
 import java.util.*;
 class HotelRoom {
     protected String hotelName;

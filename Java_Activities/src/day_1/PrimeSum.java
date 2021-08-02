@@ -1,4 +1,4 @@
-package activity_1;
+package day_1;
 import java.lang.Math;
 import java.util.Scanner;
 public class PrimeSum {

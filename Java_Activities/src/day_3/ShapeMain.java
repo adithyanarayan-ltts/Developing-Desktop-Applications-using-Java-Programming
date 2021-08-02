@@ -1,4 +1,4 @@
-package activity_3_abstract_class;
+package day_3;
 
 import java.io.IOException;
 import java.util.*;

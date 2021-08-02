@@ -1,1 +1,0 @@
-package activity_3_abstract_class;

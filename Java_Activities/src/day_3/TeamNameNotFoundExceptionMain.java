@@ -1,4 +1,4 @@
-package activity_4_exceptionHandling;
+package day_3;
 
 import java.io.BufferedReader;
 import java.io.IOException;
